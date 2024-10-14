@@ -1,0 +1,65 @@
+div{
+    background-color: #95bcda;
+    width: 640px;
+    height: 430px ;
+    top: 238px;
+    left: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.rectangulo1{
+    width: 585px;
+    height: 176px;
+    top: 475px;
+    left: 428px;
+    border-radius: 30px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.foto{
+    width: 122px;
+    height: 173px;
+    top: 258px;
+    left: 428px;
+    border-radius: 6px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.rectangulo2{
+    width: 290px;
+    height: 30px;
+    top: 258px;
+    left: 723px;
+    opacity: 0px;
+}
+ 
+.rectangulo3{
+    width: 290px;
+    height: 30px;
+    top: 258px;
+    left: 723px;
+    opacity: 0px;
+}
+
+.rectangulo4{
+    width: 290px;
+    height: 30px;
+    top: 258px;
+    left: 723px;
+    opacity: 0px;
+}
+
+.rectangulo5{
+    width: 290px;
+    height: 30px;
+    top: 258px;
+    left: 723px;
+    opacity: 0px;
+}
